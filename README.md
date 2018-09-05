@@ -29,4 +29,4 @@ Praktikum 1
 Praktikum 2
 
 
-![alt text](https://github.com/rizkyferdian04/Jobsheet4/blob/master/praktikum.JPG)
+![alt text](https://github.com/rizkyferdian04/Jobsheet4/blob/master/praktikum2.JPG)
